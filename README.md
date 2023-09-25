@@ -14,17 +14,6 @@ Live Demo: [喵's StackHarbor](http://aria.ismyonly.one/)
 
 I am a collage student and I don't have a job, I just code this theme in my spare time with my passion. If you like my theme or this theme and code help you, you can donate me for my work via WeChatPay or AliPay or PayPal to support my development, here are my qrcodes and links:
 
-- WeChatPay
-
-	![WeChatPay](https://sh.alynx.xyz/images/WeChatPay.png)
-
-- AliPay
-
-	![AliPay](https://sh.alynx.xyz/images/AliPay.png)
-
-- PayPal:
-
-	[Click Here](http://paypal.me/AlynxZhou)
 
 # Feature
 
