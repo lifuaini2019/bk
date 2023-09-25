@@ -42,7 +42,7 @@ creative_commons:
 highlight: atom-one-dark
 
 # Custom info in footer.
-custom_info: 托管于<i class="fab fa-github-alt"></i><a href="https://pages.github.com/" target="_blank">GitHub Pages</a>
+#custom_info: 托管于<i class="fab fa-github-alt"></i><a href="https://pages.github.com/" target="_blank">GitHub Pages</a>
 
 # Select all your webfont in a CDN like Google Fonts, and then copy `href` property in the `<link>` tag, like `link: //fonts.googleapis.com/css?family=Lato|Roboto+Condensed|Skranji|Ubuntu|Ubuntu+Mono`.
 # Then set different fonts to different parts here.
@@ -126,27 +126,30 @@ lib_cdn:
 social:
   enable: true
   links:
-    - name: E-Mail
-      link: mailto:youremail@youremailhost
+    - name: 电子邮箱
+      link: mailto:lifuaini@proton.me
       icon: <i class="fas fa-envelope"></i>
     - name: GitHub
       link: https://github.com/
       icon: <i class="fab fa-github"></i>
-    - name: Weibo
+    - name: 微博
       link: https://weibo.com/
       icon: <i class="fab fa-weibo"></i>
 
 blogroll:
   enable: true
   links:
-    - name: GitHub
-      link: https://github.com/
+    - name: 谷歌
+      link: https://www.google.com/
       icon: <i class="fas fa-link"></i>
-    - name: MDN
-      link: https://developer.mozilla.org/
+    - name: 百度
+      link: https://baidu.com/
       icon: <i class="fas fa-link"></i>
-    - name: Nunjucks
-      link: https://mozilla.github.io/nunjucks/
+    - name: 腾讯
+      link: https://www.tencent.com/
+      icon: <i class="fas fa-link"></i>
+    - name: 优兔视频
+      link: https://www.youtube.com/
       icon: <i class="fas fa-link"></i>
 
 # `comment.commentjs.type`: Choose between `github` and `oschina`.
@@ -176,7 +179,7 @@ comment:
 
 reward:
   enable: false
-  comment: 坚持原创技术分享，您的支持是我前进的动力！
+  comment: 吃饱无事做，可以分享一下生活记录！
   # wechatpay_qrcode: images/WeChatPay.png
   # alipay_qrcode: images/AliPay.png
   # bitcoin_qrcode: images/BitCoin.png
